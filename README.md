@@ -9,3 +9,6 @@ Our main objective was to build an E-mail spam filter which can differentiate be
 And for your information we first simulated the whole algorithm on ‘qasm simulator’ provided by ‘Aer’ of ‘qiskit’ as it is noise free (not perfectly ideal though). Then we ran the algorithm on 'ibmq_vigo', a 5-qubit quantum computer and took real world noisy readings on it.
 
 At present this project might be way too advanced to apply to qComp now. But surely it will be in use when we will be using highly secure quantum internet. 
+
+Adios! 
+Soumyajit
