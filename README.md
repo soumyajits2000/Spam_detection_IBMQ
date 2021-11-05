@@ -21,7 +21,7 @@ Hey peeps! Welcome. You opened this because the word 'Quantum' fascinated you. R
 
 
 ## Description
-Our main objective was to build an E-mail spam filter which can differentiate between spam and non-spam E-mails. It should be able to perform well in noisy conditions. We have built a quantum machine learning algorithm to train our dataset first and then implement that algorithm to another dataset to check whether it can classify between spam and non-spam or not. We will be doing this whole experiment on a simulator first before moving on to a real quantum computer. We will be taking around 30 mails for our reference and train the set for spam and non-spam. Then we will test the algorithm on a different set of mails.
+Our main objective was to build an E-mail spam filter which can differentiate between spam and non-spam E-mails. It should be able to perform well in noisy conditions. We have built a quantum machine learning algorithm to train our dataset first and then implement that algorithm to another dataset to check whether it can classify between spam and non-spam or not. We will be doing this whole experiment on a simulator first before moving on to a real quantum computer. We will be taking around 30 mails for our reference and train the set for spam and non-spam. Then we will test the algorithm on a different set of mails. Though the final results are not uploaded here, kindly contact the authors for more information about the projects.
 
 
 
